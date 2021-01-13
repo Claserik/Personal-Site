@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #40514E;
+     }
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+    color: #66BFBF;
+    
+    }
+h2 {
+    margin: 0px;
+    font-size: 2rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+   }
+   h3 {
+    color: #11999E;
+      }
+hr {border: dotted;
+    border-width: 10px;
+    border-bottom: none;
+    color: #EAF6F6;
+    width:4%;
+    margin: 100px auto;}
+p {
+    margin: 0px;
+    line-height: 2;
+  }
+
+a {text-decoration: none;
+    color: #11999E;}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.topcontainer {
+    position: relative;
+    background-color: #EAF6F6;
+    padding-top: 150px;}
+ 
+.titleadd {
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 2;
+   }
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    }
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    }
+
+
+
+.clasicon {width: 15%; margin: 10px;}
+
+.personal-description {
+    width: 30%;
+    margin: auto ;
+}
+
+.filmicon {
+    background-color: #EAF6F6;
+    border-radius: 30%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.kochicon {
+    background-color: #EAF6F6;
+    border-radius: 30%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+
+}
+
+.middle-container {margin: 100px 0;}
+
+.bottom-container {background-color: #66BFBF;
+    padding: 10px 0 20px;
+}
+
+.copyright {
+    padding: 20px 0;
+    color:#EAF6F6;
+    font-size: 0.75rem;
+}
